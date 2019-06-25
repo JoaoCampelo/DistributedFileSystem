@@ -1,10 +1,10 @@
 # DistributedFileSystem
 
-Este projecto propõe o desenvolvimento de um sistemade partilha e sincronização de ficheirossemelhante ao Sistema Dropbox (sem interface web) de acordo com os requisitos abaixo enumerados:
+Este projecto propõe o desenvolvimento de um sistema de partilha e sincronização de ficheiros semelhante ao Sistema Dropbox (sem interface web) de acordo com os requisitos abaixo enumerados:
 
-  •O serviço deverá permitir partilhar/replicar uma pasta remota (e todas as subpastas e ficheiros dentro dessa pasta). Cada  cliente terá uma réplica local da pasta que será sincronizada automaticamente com as outras réplicas existentes noutras máquinas; (FEITO)
+  •O serviço deverá permitir partilhar/replicar uma pasta remota (e todas as sub-pastas e ficheiros dentro dessa pasta). Cada  cliente terá uma réplica local da pasta que será sincronizada automaticamente com as outras réplicas existentes noutras máquinas; (FEITO)
   
-  •Para acederem ao serviço os clientes devem efectuar um registo. Nesse registo escolhem o username, a passworde o nome do group a  que querem pertencer, podem também criar um novo grupo ao qual se pretendem associar; (FEITO)
+  •Para acederem ao serviço os clientes devem efectuar um registo. Nesse registo escolhem o username, a password e o nome do group a que querem pertencer, podem também criar um novo grupo ao qual se pretendem associar; (FEITO)
   
   •Posteriormente, os clientes efectuam a autenticação e acedem à área de trabalho/pasta do grupo em que se registaram. Nessa  área/pasta poderão efectuar operações básicas de gestão de pastas (e.g.list, create, delete, rename, move, etc.) e ficheiros (e.g.upload, delete, rename, move, etc.); (FEITO)
   
